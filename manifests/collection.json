@@ -1,0 +1,13 @@
+{
+  "id" : "https://Ava460.github.io/Test_Manifest/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Ava460/Test_Manifest project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Ava460.github.io/Test_Manifest/manifests/manifest.json",
+    "label" : "Aarau, Staatsarchiv Aargau, AA/0428"
+  } ]
+}
